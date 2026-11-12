@@ -1,0 +1,17 @@
+# revisions / working copies
+com_board_*.kicad_*
+com_board_routed*
+*.bak
+_restore_backup_*/
+_claude_work/
+.history/
+com_board-backups/
+renders/
+renders4L/
+# KiCad local files
+*.kicad_prl
+~*.lck
+fp-info-cache
+*-backups/
+# macOS
+.DS_Store

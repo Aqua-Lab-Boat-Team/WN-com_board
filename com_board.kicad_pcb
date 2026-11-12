@@ -20351,7 +20351,7 @@
 		)
 	)
 	(gr_text "B404X MODULE"
-		(at 120 103 0)
+		(at 121.55 84.975 0)
 		(layer "F.SilkS")
 		(uuid "42155329-29b4-4569-9879-958ccb856b1d")
 		(effects
@@ -20416,6 +20416,14 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "0b789d54-6ed0-49b3-b92c-37e76a8c367c")
+	)
+	(segment
+		(start 140.826 52.934)
+		(end 140.82 52.94)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "0dc54970-7cec-4353-9fed-151086161dc2")
 	)
 	(segment
 		(start 139.18 73.58)
@@ -20632,6 +20640,14 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "92efe4ed-5fe0-461f-b785-728ef28e7e98")
+	)
+	(segment
+		(start 140.826 51.14)
+		(end 140.826 52.934)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "9646a33a-683e-41ae-84cf-1a7ba0bdb07d")
 	)
 	(segment
 		(start 134.67 84.09)

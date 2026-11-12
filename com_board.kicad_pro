@@ -496,7 +496,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "com_board_4layer_drcfix_claude2.kicad_pro",
+    "filename": "com_board.kicad_pro",
     "version": 3
   },
   "net_settings": {

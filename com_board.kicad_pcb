@@ -725,6 +725,7 @@
 				)
 			)
 		)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -20351,7 +20352,7 @@
 		)
 	)
 	(gr_text "B404X MODULE"
-		(at 120 103 0)
+		(at 121.55 84.975 0)
 		(layer "F.SilkS")
 		(uuid "42155329-29b4-4569-9879-958ccb856b1d")
 		(effects

@@ -1,0 +1,21 @@
+(version 1)
+
+# Silkscreen exceptions, added 2026-11-15.
+# Board-level F.SilkS outline boxes drawn around the J7 and U1 module areas.
+# They cross the module outlines and the mounting holes on purpose.
+(rule "silk_exc_module_outline_boxes"
+	(condition "(!A.memberOfFootprint('*') && (B.memberOfFootprint('U1') || B.memberOfFootprint('J7') || B.memberOfFootprint('H1'))) || (!B.memberOfFootprint('*') && (A.memberOfFootprint('U1') || A.memberOfFootprint('J7') || A.memberOfFootprint('H1')))")
+	(constraint silk_clearance (min 0mm))
+	(severity ignore))
+
+# JP2 / JP3 library footprint silk crosses its own NPTH alignment hole.
+(rule "silk_exc_jumper_footprint"
+	(condition "A.memberOfFootprint('JP2') || A.memberOfFootprint('JP3') || B.memberOfFootprint('JP2') || B.memberOfFootprint('JP3')")
+	(constraint silk_clearance (min 0mm))
+	(severity ignore))
+
+# Crowded refs in the U16-U18 MOSFET column and C11 beside C10. No clean spot left.
+(rule "silk_exc_crowded_refs"
+	(condition "(A.Type == 'Text' && (A.memberOfFootprint('U17') || A.memberOfFootprint('U18') || A.memberOfFootprint('C11'))) || (B.Type == 'Text' && (B.memberOfFootprint('U17') || B.memberOfFootprint('U18') || B.memberOfFootprint('C11')))")
+	(constraint silk_clearance (min 0mm))
+	(severity ignore))

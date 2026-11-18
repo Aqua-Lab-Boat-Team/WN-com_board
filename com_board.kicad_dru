@@ -14,8 +14,8 @@
 	(constraint silk_clearance (min 0mm))
 	(severity ignore))
 
-# Crowded refs in the U16-U18 MOSFET column and C11 beside C10. No clean spot left.
+# Crowded ref C11 beside C10. No clean spot left.
 (rule "silk_exc_crowded_refs"
-	(condition "(A.Type == 'Text' && (A.memberOfFootprint('U17') || A.memberOfFootprint('U18') || A.memberOfFootprint('C11'))) || (B.Type == 'Text' && (B.memberOfFootprint('U17') || B.memberOfFootprint('U18') || B.memberOfFootprint('C11')))")
+	(condition "(A.Type == 'Text' && A.memberOfFootprint('C11')) || (B.Type == 'Text' && B.memberOfFootprint('C11'))")
 	(constraint silk_clearance (min 0mm))
 	(severity ignore))

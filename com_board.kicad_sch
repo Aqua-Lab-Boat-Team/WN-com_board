@@ -2927,7 +2927,7 @@
 					)
 				)
 			)
-			(property "Sim.Pins" "1=D 2=G 3=S"
+			(property "Sim.Pins" "3=D 1=G 2=S"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3127,7 +3127,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3145,7 +3145,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3163,7 +3163,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10830,16 +10830,6 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 111.76) (xy 386.08 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05a96022-8a51-4c07-82d8-82b2c6495aef")
-	)
-	(wire
-		(pts
 			(xy 441.96 85.09) (xy 441.96 87.63)
 		)
 		(stroke
@@ -10867,16 +10857,6 @@
 			(type default)
 		)
 		(uuid "09c16bcb-fa81-4a77-978d-5ba839a2facf")
-	)
-	(wire
-		(pts
-			(xy 415.29 96.52) (xy 415.29 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a539780-f379-4daf-be1e-9dce256e6957")
 	)
 	(wire
 		(pts
@@ -10927,16 +10907,6 @@
 			(type default)
 		)
 		(uuid "0e6292da-1351-4bea-b275-df32005ac108")
-	)
-	(wire
-		(pts
-			(xy 369.57 59.69) (xy 363.22 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fa9498e-ea1d-4c45-98ec-8c6e0fd442ac")
 	)
 	(wire
 		(pts
@@ -10997,36 +10967,6 @@
 			(type default)
 		)
 		(uuid "11c1a280-1255-4eaf-8890-f05093f24101")
-	)
-	(wire
-		(pts
-			(xy 363.22 86.36) (xy 363.22 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1411f74d-3f75-4c70-8f2f-e9a09f82b842")
-	)
-	(wire
-		(pts
-			(xy 363.22 44.45) (xy 388.62 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "143015fa-f04a-4f01-a741-5f28f7a11868")
-	)
-	(wire
-		(pts
-			(xy 386.08 101.6) (xy 388.62 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1509e795-0cd0-41bb-86b6-e168fe6f5ea2")
 	)
 	(wire
 		(pts
@@ -11190,16 +11130,6 @@
 	)
 	(wire
 		(pts
-			(xy 410.21 71.12) (xy 415.29 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "214126da-1f2d-4e45-8075-91f1a8ec8ba1")
-	)
-	(wire
-		(pts
 			(xy 86.36 129.54) (xy 93.98 129.54)
 		)
 		(stroke
@@ -11227,16 +11157,6 @@
 			(type default)
 		)
 		(uuid "2607d29a-1b88-4b7d-a048-3521e38180b8")
-	)
-	(wire
-		(pts
-			(xy 415.29 77.47) (xy 420.37 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "264e7a7c-1bf9-4832-b0ec-1f14dab7aad0")
 	)
 	(wire
 		(pts
@@ -11390,16 +11310,6 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 87.63) (xy 420.37 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "320f1ad1-a767-496b-ac5a-e92635c0661e")
-	)
-	(wire
-		(pts
 			(xy 382.27 287.02) (xy 384.81 287.02)
 		)
 		(stroke
@@ -11517,16 +11427,6 @@
 			(type default)
 		)
 		(uuid "3c0c29d6-d3fc-45cf-9aa5-a1bfb48dd9f3")
-	)
-	(wire
-		(pts
-			(xy 415.29 67.31) (xy 415.29 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d6b5763-4708-42c3-950f-fb600aa2f3c8")
 	)
 	(wire
 		(pts
@@ -11770,16 +11670,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 49.53) (xy 364.49 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55a44cf2-8cde-4e33-84e3-42a5db9928f3")
-	)
-	(wire
-		(pts
 			(xy 364.49 240.03) (xy 367.03 240.03)
 		)
 		(stroke
@@ -11807,16 +11697,6 @@
 			(type default)
 		)
 		(uuid "57621660-248e-49b9-aea5-80e2bbc6e422")
-	)
-	(wire
-		(pts
-			(xy 415.29 71.12) (xy 415.29 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59c0c583-492c-4b6d-ab7e-2f6901b86178")
 	)
 	(wire
 		(pts
@@ -11900,16 +11780,6 @@
 	)
 	(wire
 		(pts
-			(xy 420.37 67.31) (xy 415.29 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d36b5a1-ab60-4fd7-bf03-58f80e401488")
-	)
-	(wire
-		(pts
 			(xy 384.81 283.21) (xy 384.81 287.02)
 		)
 		(stroke
@@ -11927,16 +11797,6 @@
 			(type default)
 		)
 		(uuid "5ede4016-0a59-4134-9c29-ab33cd464ceb")
-	)
-	(wire
-		(pts
-			(xy 363.22 71.12) (xy 388.62 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f61da21-cf6d-4ab1-9b04-78e6d3cd7a6e")
 	)
 	(wire
 		(pts
@@ -12017,16 +11877,6 @@
 			(type default)
 		)
 		(uuid "69ae5a57-bcea-4532-82eb-2ebc2ed13e8a")
-	)
-	(wire
-		(pts
-			(xy 410.21 96.52) (xy 415.29 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a265cb4-4153-4039-a960-f32f9a510eec")
 	)
 	(wire
 		(pts
@@ -12230,16 +12080,6 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 49.53) (xy 386.08 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "788a214b-e3d8-48e5-b982-2b1e4014d918")
-	)
-	(wire
-		(pts
 			(xy 214.63 243.84) (xy 208.28 243.84)
 		)
 		(stroke
@@ -12287,16 +12127,6 @@
 			(type default)
 		)
 		(uuid "8086f3fa-e724-4be3-823e-2d0341455f89")
-	)
-	(wire
-		(pts
-			(xy 386.08 76.2) (xy 388.62 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8088e942-1bbd-4f2d-bd91-eecebbd1dd8c")
 	)
 	(wire
 		(pts
@@ -12350,16 +12180,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 76.2) (xy 364.49 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "835d9556-25f9-4f40-9fd4-4b9855475128")
-	)
-	(wire
-		(pts
 			(xy 476.25 322.58) (xy 476.25 335.28)
 		)
 		(stroke
@@ -12387,16 +12207,6 @@
 			(type default)
 		)
 		(uuid "8465c90f-4bf7-4d6d-880a-834c2f9166d7")
-	)
-	(wire
-		(pts
-			(xy 384.81 76.2) (xy 386.08 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8535d7d2-d075-4760-b050-27756c524507")
 	)
 	(wire
 		(pts
@@ -12740,16 +12550,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 101.6) (xy 364.49 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d5a52cf-d826-40ba-bd53-c6e0369c38de")
-	)
-	(wire
-		(pts
 			(xy 195.58 119.38) (xy 186.69 119.38)
 		)
 		(stroke
@@ -12777,26 +12577,6 @@
 			(type default)
 		)
 		(uuid "9f3a052b-3521-4b44-a710-b7d5c1797b98")
-	)
-	(wire
-		(pts
-			(xy 363.22 59.69) (xy 363.22 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1cb8dec-ee26-495f-be77-bf427a358dda")
-	)
-	(wire
-		(pts
-			(xy 369.57 86.36) (xy 363.22 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a39197d0-44e8-4d09-b200-a18b20a0ef5e")
 	)
 	(wire
 		(pts
@@ -12850,16 +12630,6 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 49.53) (xy 388.62 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9fe19e5-2de4-49c1-b84f-4349c186233e")
-	)
-	(wire
-		(pts
 			(xy 163.83 223.52) (xy 214.63 223.52)
 		)
 		(stroke
@@ -12887,16 +12657,6 @@
 			(type default)
 		)
 		(uuid "ad11cabf-b0c5-4df1-ba72-f9ae0917dd23")
-	)
-	(wire
-		(pts
-			(xy 384.81 101.6) (xy 386.08 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad927a3a-eebd-4228-8d1b-be3f730901e9")
 	)
 	(wire
 		(pts
@@ -12950,16 +12710,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 111.76) (xy 363.22 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afe31d8b-157f-4590-a165-42ce242cebec")
-	)
-	(wire
-		(pts
 			(xy 261.62 119.38) (xy 261.62 123.19)
 		)
 		(stroke
@@ -12977,16 +12727,6 @@
 			(type default)
 		)
 		(uuid "b4da4d15-0215-4019-8578-a8fd9bfb883e")
-	)
-	(wire
-		(pts
-			(xy 386.08 86.36) (xy 386.08 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b500b2b3-884c-49fc-adf5-44b7e149d242")
 	)
 	(wire
 		(pts
@@ -13187,16 +12927,6 @@
 			(type default)
 		)
 		(uuid "c9202190-6542-4040-b6d4-fa23c4d2aba7")
-	)
-	(wire
-		(pts
-			(xy 386.08 59.69) (xy 386.08 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca546cc5-bcf2-4913-92ca-03554c5ac413")
 	)
 	(wire
 		(pts
@@ -13430,16 +13160,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 111.76) (xy 363.22 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db9c0dda-d66f-494f-8c18-77f538584032")
-	)
-	(wire
-		(pts
 			(xy 251.46 58.42) (xy 259.08 58.42)
 		)
 		(stroke
@@ -13497,16 +13217,6 @@
 			(type default)
 		)
 		(uuid "e36cdde2-7feb-4548-9440-e85b37634234")
-	)
-	(wire
-		(pts
-			(xy 377.19 59.69) (xy 386.08 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e499576f-0b48-4e9c-a548-b57c791c301d")
 	)
 	(wire
 		(pts
@@ -13580,26 +13290,6 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 111.76) (xy 386.08 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eaf7861d-f2a4-401f-b42f-02866158d8b1")
-	)
-	(wire
-		(pts
-			(xy 377.19 86.36) (xy 386.08 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb5ab6eb-dd18-44f8-af68-445996920cf0")
-	)
-	(wire
-		(pts
 			(xy 238.76 119.38) (xy 242.57 119.38)
 		)
 		(stroke
@@ -13637,26 +13327,6 @@
 			(type default)
 		)
 		(uuid "ee2ada59-01d6-46ad-800d-b7bc8b39cc9b")
-	)
-	(wire
-		(pts
-			(xy 363.22 96.52) (xy 388.62 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efaff306-1c20-465c-b321-f75aeaa76969")
-	)
-	(wire
-		(pts
-			(xy 415.29 44.45) (xy 410.21 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efb201ec-82b6-42c5-88ef-e205d3085bc4")
 	)
 	(wire
 		(pts
@@ -14498,7 +14168,7 @@
 		)
 		(uuid "e76da518-c671-427c-a892-2b83b545e390")
 	)
-	(label "RST"
+	(label "RESET"
 		(at 377.19 312.42 270)
 		(effects
 			(font
@@ -14598,246 +14268,7 @@
 		)
 		(uuid "feab713e-dbb8-4d64-9717-268e12ad9f77")
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:BSS123-7-F")
-		(at 400.05 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00a93ff3-ff80-4a89-abe9-5572bc6534a9")
-		(property "Reference" "U16"
-			(at 399.415 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BSS123-7-F"
-			(at 399.415 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:SOT95P240X110-3N"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Diodes Inc."
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "N-Channel 100 V 170mA (Ta) 300mW (Ta) Surface Mount SOT-23-3"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PACKAGE" "SOT-23-3"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MPN" "BSS123-7-F"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SOT-23 Diodes Inc."
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_FARNELL" "1843725"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=snap"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "BSS123-7-F"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SUPPLIER" "DIODES INC."
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_NEWARK" "12T1440"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=eda"
-			(at 406.4 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "60bef28e-ce7d-4ef6-81b3-4f7f386e758c")
-		)
-		(pin "2"
-			(uuid "a2422afa-a7a7-4124-baed-b019535aa774")
-		)
-		(pin "3"
-			(uuid "5b353a4c-b97b-4c60-bfec-fd748daddbcd")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "U16")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "power:GND")
 		(at 168.91 127 0)
@@ -15218,7 +14649,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3µ"
+		(property "Value" "FB 220R 0805"
 			(at 240.03 203.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15228,7 +14659,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:INDC1608X95N"
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 240.03 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -15250,7 +14681,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "Ferrite bead"
 			(at 240.03 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -15261,7 +14692,7 @@
 				)
 			)
 		)
-		(property "MP" "AIML-0603-3R3K-T"
+		(property "MP" "BLM21PG221SN1D"
 			(at 240.538 198.882 90)
 			(hide yes)
 			(show_name no)
@@ -16067,7 +15498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ, 25V"
+		(property "Value" "10p, 50V"
 			(at 254.254 129.286 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16078,7 +15509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
 			(at 254.9652 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -16111,7 +15542,7 @@
 				)
 			)
 		)
-		(property "MP" "CL10A106MA8NRNC"
+		(property "MP" "CL21C100JBANNNC"
 			(at 254 127 0)
 			(hide yes)
 			(show_name no)
@@ -16499,230 +15930,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:ERA6AEB103V")
-		(at 374.65 101.6 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2ae2a408-a8c8-45b5-93d0-7cbec1442e14")
-		(property "Reference" "R68"
-			(at 369.824 98.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 374.65 97.79 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB103V"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Panasonic"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "2012-2 Panasonic"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=eda"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "3/1/2020"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=snap"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "ERA-6AEB103V"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "Res Thin Film 0805 10K Ohm 0.1% 0.125W(1/8W) 25ppm/C Molded SMD Punched Carrier T/R"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Panasonic"
-			(at 374.65 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "d0299fb1-3a80-4a92-93a9-bfb0f0cdc432")
-		)
-		(pin "1"
-			(uuid "d032006a-3fce-4a67-b7c2-e0e8490b7c14")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "R68")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "power:GND")
 		(at 38.1 34.29 0)
@@ -17139,246 +16347,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:BSS123-7-F")
-		(at 400.05 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30fefdc7-ec59-4dcd-aefd-a6a3f94f92b0")
-		(property "Reference" "U18"
-			(at 399.415 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BSS123-7-F"
-			(at 399.415 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:SOT95P240X110-3N"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Diodes Inc."
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "N-Channel 100 V 170mA (Ta) 300mW (Ta) Surface Mount SOT-23-3"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PACKAGE" "SOT-23-3"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MPN" "BSS123-7-F"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SOT-23 Diodes Inc."
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_FARNELL" "1843725"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=snap"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "BSS123-7-F"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SUPPLIER" "DIODES INC."
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_NEWARK" "12T1440"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=eda"
-			(at 406.4 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "9e9ab134-f2cd-4247-a19e-ce780a2e20c9")
-		)
-		(pin "2"
-			(uuid "a059dd66-7366-4cbd-806b-60e65be0a261")
-		)
-		(pin "3"
-			(uuid "cdf4e33b-6a66-4faa-ac76-f259d3831207")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "U18")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "Device:C")
 		(at 250.19 208.28 0)
@@ -18703,454 +17672,8 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:ERA6AEB103V")
-		(at 374.65 76.2 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4b5bc796-2b16-4cbe-bf75-9e01daa5521d")
-		(property "Reference" "R66"
-			(at 369.824 72.644 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 374.65 72.39 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB103V"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Panasonic"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "2012-2 Panasonic"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=eda"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "3/1/2020"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=snap"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "ERA-6AEB103V"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "Res Thin Film 0805 10K Ohm 0.1% 0.125W(1/8W) 25ppm/C Molded SMD Punched Carrier T/R"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Panasonic"
-			(at 374.65 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "4ca55af5-ab24-484c-a017-c565bc11290c")
-		)
-		(pin "1"
-			(uuid "2a89dd4b-05fb-4398-a6fc-289d10144662")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "R66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "WaterNet26 Library:ERA6AEB103V")
-		(at 374.65 49.53 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4f353f5a-6d86-40ee-a508-09e1d439c7f0")
-		(property "Reference" "R67"
-			(at 369.824 45.974 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 374.65 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB103V"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Panasonic"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "2012-2 Panasonic"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=eda"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "3/1/2020"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=snap"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "ERA-6AEB103V"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "Res Thin Film 0805 10K Ohm 0.1% 0.125W(1/8W) 25ppm/C Molded SMD Punched Carrier T/R"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Panasonic"
-			(at 374.65 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "d6127bbd-5deb-4c87-8fe1-8ba748bb4417")
-		)
-		(pin "1"
-			(uuid "9a34e80b-e2cc-437f-ab9e-1cabc61887ee")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "R67")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
+	
 	(symbol
 		(lib_id "Device:C")
 		(at 274.32 50.8 0)
@@ -19581,388 +18104,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
-		(at 372.11 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "594d5d10-eb22-48ea-bfa0-45e8b054b025")
-		(property "Reference" "C68"
-			(at 371.602 53.594 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF 25V"
-			(at 368.554 56.388 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L1_min" "0.2"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=eda"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SMD-2 Samsung"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=snap"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_min" "1.15"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Samsung Electro-Mechanics"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_min" "1.9"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_nom" "2.0"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_min" "0.2"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_max" "1.35"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_max" "0.7"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_max" "0.95"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_nom" "0.5"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_max" "2.1"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_nom" "0.95"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_max" "0.7"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_min" "0.95"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "CL21B104KACNNNC"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_nom" "1.25"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_nom" "0.5"
-			(at 372.11 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "77b60f84-94d0-4c56-99fc-435a3b2a01ef")
-		)
-		(pin "1"
-			(uuid "441aa287-6ab9-4c33-9d76-677984d9805a")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "C68")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_name "B04B-PASK-1_1_1")
 		(lib_id "WaterNet26 Library:B04B-PASK-1_1")
@@ -22872,7 +21014,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 369.57 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22883,7 +21025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB104V"
+		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB103V"
 			(at 365.252 212.09 90)
 			(hide yes)
 			(show_name no)
@@ -22916,7 +21058,7 @@
 				)
 			)
 		)
-		(property "MP" "RMCF0603FT100K"
+		(property "MP" "RMCF0603FT10K0"
 			(at 367.03 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -23266,7 +21408,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3µ"
+		(property "Value" "3.3µH 4030"
 			(at 243.84 46.228 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23276,7 +21418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:INDC1608X95N"
+		(property "Footprint" "Inductor_SMD:L_Wuerth_MAPI-4030"
 			(at 243.84 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -23309,7 +21451,7 @@
 				)
 			)
 		)
-		(property "MP" "AIML-0603-3R3K-T"
+		(property "MP" "74438357033"
 			(at 244.856 41.148 90)
 			(hide yes)
 			(show_name no)
@@ -24109,388 +22251,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
-		(at 372.11 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9af68b0c-02de-422e-aa4f-7a8c9f34339f")
-		(property "Reference" "C76"
-			(at 371.602 105.664 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF 25V"
-			(at 368.554 108.458 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L1_min" "0.2"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=eda"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SMD-2 Samsung"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=snap"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_min" "1.15"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Samsung Electro-Mechanics"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_min" "1.9"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_nom" "2.0"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_min" "0.2"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_max" "1.35"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_max" "0.7"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_max" "0.95"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_nom" "0.5"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_max" "2.1"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_nom" "0.95"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_max" "0.7"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_min" "0.95"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "CL21B104KACNNNC"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_nom" "1.25"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_nom" "0.5"
-			(at 372.11 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "ea0304cc-969d-4fc2-a479-676d9d6f0628")
-		)
-		(pin "1"
-			(uuid "03431a42-9f52-4d92-8d45-2a1326b978b1")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "C76")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "power:VBUS")
 		(at 363.22 162.56 0)
@@ -24996,246 +22757,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:BSS123-7-F")
-		(at 400.05 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6611ba8-9e8f-45f8-8c0b-5b53fc610245")
-		(property "Reference" "U17"
-			(at 399.415 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BSS123-7-F"
-			(at 399.415 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:SOT95P240X110-3N"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Diodes Inc."
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "N-Channel 100 V 170mA (Ta) 300mW (Ta) Surface Mount SOT-23-3"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PACKAGE" "SOT-23-3"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MPN" "BSS123-7-F"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SOT-23 Diodes Inc."
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_FARNELL" "1843725"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=snap"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "BSS123-7-F"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SUPPLIER" "DIODES INC."
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "OC_NEWARK" "12T1440"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/BSS123-7-F/Diodes+Inc./view-part/?ref=eda"
-			(at 406.4 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "db5ca8ab-87a7-4614-ae93-fd36f84b373e")
-		)
-		(pin "2"
-			(uuid "c47cb4e9-8c3a-49b5-a5a3-ca297f017918")
-		)
-		(pin "3"
-			(uuid "ff8e9ad8-0c70-41d3-952a-6b5307bba650")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "U17")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "power:+3.3V")
 		(at 363.22 171.45 0)
@@ -25546,388 +23068,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
-		(at 372.11 86.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b017fcca-1a66-4283-b328-17c888035528")
-		(property "Reference" "C69"
-			(at 371.602 80.264 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF 25V"
-			(at 368.554 83.058 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L1_min" "0.2"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=eda"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SMD-2 Samsung"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=snap"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "IPC 7351B"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_min" "1.15"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Samsung Electro-Mechanics"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_min" "1.9"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_nom" "2.0"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_min" "0.2"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_max" "1.35"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_max" "0.7"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_max" "0.95"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_nom" "0.5"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "D_max" "2.1"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_nom" "0.95"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L1_max" "0.7"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "A_min" "0.95"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "CL21B104KACNNNC"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "E_nom" "1.25"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "L_nom" "0.5"
-			(at 372.11 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "bb46d242-d5bf-473d-8bdb-24e0d879a9cf")
-		)
-		(pin "1"
-			(uuid "bf7c6e65-dcbd-4276-aed1-e2b4365b4d87")
-		)
-		(instances
-			(project "com_board"
-				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
-					(reference "C69")
-					(unit 1)
-				)
-			)
-		)
-	)
+	
 	(symbol
 		(lib_id "Device:C")
 		(at 81.28 285.75 0)
@@ -28028,7 +25169,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ, 25V"
+		(property "Value" "10p, 50V"
 			(at 251.714 53.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28039,7 +25180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
 			(at 252.4252 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -28072,7 +25213,7 @@
 				)
 			)
 		)
-		(property "MP" "CL10A106MA8NRNC"
+		(property "MP" "CL21C100JBANNNC"
 			(at 251.46 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -29054,7 +26195,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3µ"
+		(property "Value" "3.3µH 4030"
 			(at 246.38 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29064,7 +26205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:INDC1608X95N"
+		(property "Footprint" "Inductor_SMD:L_Wuerth_MAPI-4030"
 			(at 246.38 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -29097,7 +26238,7 @@
 				)
 			)
 		)
-		(property "MP" "AIML-0603-3R3K-T"
+		(property "MP" "74438357033"
 			(at 246.38 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -29145,7 +26286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "BSS123-7-F"
 			(at 480.06 318.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29211,7 +26352,7 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=D 2=G 3=S"
+		(property "Sim.Pins" "3=D 1=G 2=S"
 			(at 473.71 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -29427,4 +26568,410 @@
 		)
 	)
 	(embedded_fonts no)
+	(label "RGB_B"
+		(at 420.37 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d2fe0e2-236e-4665-ba6f-08e54df87f23")
+	)
+	(label "RGB_G"
+		(at 420.37 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7446348f-3f2c-4c31-9659-528c2e5e7817")
+	)
+	(label "RGB_R"
+		(at 420.37 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "afd9bddb-b782-4832-b6f3-c3c4ba2bf402")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 196.85 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "11a687ae-5a3d-4857-afb0-3a15f4b763bf")
+		(property "Reference" "R40"
+			(at 196.85 53.59 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 196.85 58.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB104V"
+			(at 196.85 57.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 196.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MP" "RMCF0603FT100K"
+			(at 196.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ed25938e-5972-49bc-83e3-28d82aac9f02")
+		)
+		(pin "2"
+			(uuid "63741bec-f645-46aa-a94e-858148a3e285")
+		)
+		(instances
+			(project "com_board"
+				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "U2_EN"
+		(at 191.77 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61dad331-69e5-4a0e-b105-36ad2f562036")
+	)
+	(label "U2_EN"
+		(at 196.85 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0456846f-2f6c-4262-b8a3-ea1985292540")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 196.85 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "afa89120-87cf-4ba5-88f2-1d7446437572")
+		(property "Reference" "#PWR0124"
+			(at 196.85 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 196.85 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 196.85 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a13dbd3e-d12f-419a-ad63-89cdc7bd8714")
+		)
+		(instances
+			(project "com_board"
+				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 199.39 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "20c7536a-6480-49c7-a484-97c2efe25e39")
+		(property "Reference" "R41"
+			(at 199.39 129.79 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 199.39 134.62 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB104V"
+			(at 199.39 133.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 199.39 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MP" "RMCF0603FT100K"
+			(at 199.39 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a6f4bc2-f65a-46dd-bffc-d96a29364993")
+		)
+		(pin "2"
+			(uuid "82432794-5a10-4ccb-bcde-2ab6bd9638ae")
+		)
+		(instances
+			(project "com_board"
+				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "U3_EN"
+		(at 194.31 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06a5e77d-4ac5-4f44-8ee9-7ee8764a84b9")
+	)
+	(label "U3_EN"
+		(at 199.39 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f3b4cca-b48b-464b-8de8-d67cb4006651")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 199.39 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8dc988ce-223e-4208-9242-a0869834ec06")
+		(property "Reference" "#PWR0125"
+			(at 199.39 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 199.39 140.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 199.39 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c22bf145-a1b2-4c98-a8b0-075ef2357f73")
+		)
+		(instances
+			(project "com_board"
+				(path "/eb5c9a01-7492-4365-9d3b-8013a577dbf7"
+					(reference "#PWR0125")
+					(unit 1)
+				)
+			)
+		)
+	)
 )

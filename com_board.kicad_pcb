@@ -3434,7 +3434,7 @@
 	(footprint "WaterNet26 Footprints:GCT_USB4120-03-C_REVA6"
 		(layer "F.Cu")
 		(uuid "6569b2a9-2803-4b2a-ac5e-33c3ce21599c")
-		(at 137.42 83.225)
+		(at 137.4 83.15)
 		(property "Reference" "J16"
 			(at -1.524 -3.437 0)
 			(layer "F.SilkS")
